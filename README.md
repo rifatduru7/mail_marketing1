@@ -1,5 +1,5 @@
-# mail_marketing1
-Mail Marketing Sistem
+# PHP Mail Marketing Sistemi
 
-www.rifatduru.com
+
+www.rifatduru.com<br>
 mail@rifatduru.com
